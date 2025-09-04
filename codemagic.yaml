@@ -7,7 +7,7 @@ workflows:
           - certificate_credentials # <-- (CERTIFICATE_PRIVATE_KEY)
         vars:
           XCODE_PROJECT: "CrystalDrop-Game.xcodeproj"
-          XCODE_SCHEME: "CrystalDrop-Game"
+          XCODE_SCHEME: "CrystalDrop Game"
           BUNDLE_ID: "com.crystaldrop.game"
           APP_STORE_APPLE_ID: 6751950465
         xcode: latest
