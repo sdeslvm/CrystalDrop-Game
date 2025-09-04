@@ -1,0 +1,23 @@
+{
+  "/Users/alex/Downloads/Cluck Farm Emberloom/CrystalDrop Game/CrystalDropCrystalShapes.swift" : {
+    "const-values" : "/Users/alex/Downloads/Cluck Farm Emberloom/build/Build/Intermediates.noindex/CrystalDrop-Game.build/Debug-iphonesimulator/CrystalDrop Game.build/Objects-normal/arm64/CrystalDropCrystalShapes.swiftconstvalues",
+    "dependencies" : "/Users/alex/Downloads/Cluck Farm Emberloom/build/Build/Intermediates.noindex/CrystalDrop-Game.build/Debug-iphonesimulator/CrystalDrop Game.build/Objects-normal/arm64/CrystalDropCrystalShapes.d",
+    "diagnostics" : "/Users/alex/Downloads/Cluck Farm Emberloom/build/Build/Intermediates.noindex/CrystalDrop-Game.build/Debug-iphonesimulator/CrystalDrop Game.build/Objects-normal/arm64/CrystalDropCrystalShapes.dia",
+    "object" : "/Users/alex/Downloads/Cluck Farm Emberloom/build/Build/Intermediates.noindex/CrystalDrop-Game.build/Debug-iphonesimulator/CrystalDrop Game.build/Objects-normal/arm64/CrystalDropCrystalShapes.o",
+    "swift-dependencies" : "/Users/alex/Downloads/Cluck Farm Emberloom/build/Build/Intermediates.noindex/CrystalDrop-Game.build/Debug-iphonesimulator/CrystalDrop Game.build/Objects-normal/arm64/CrystalDropCrystalShapes.swiftdeps"
+  },
+  "/Users/alex/Downloads/Cluck Farm Emberloom/CrystalDrop Game/CrystalDropCrystalThemeEngine.swift" : {
+    "const-values" : "/Users/alex/Downloads/Cluck Farm Emberloom/build/Build/Intermediates.noindex/CrystalDrop-Game.build/Debug-iphonesimulator/CrystalDrop Game.build/Objects-normal/arm64/CrystalDropCrystalThemeEngine.swiftconstvalues",
+    "dependencies" : "/Users/alex/Downloads/Cluck Farm Emberloom/build/Build/Intermediates.noindex/CrystalDrop-Game.build/Debug-iphonesimulator/CrystalDrop Game.build/Objects-normal/arm64/CrystalDropCrystalThemeEngine.d",
+    "diagnostics" : "/Users/alex/Downloads/Cluck Farm Emberloom/build/Build/Intermediates.noindex/CrystalDrop-Game.build/Debug-iphonesimulator/CrystalDrop Game.build/Objects-normal/arm64/CrystalDropCrystalThemeEngine.dia",
+    "object" : "/Users/alex/Downloads/Cluck Farm Emberloom/build/Build/Intermediates.noindex/CrystalDrop-Game.build/Debug-iphonesimulator/CrystalDrop Game.build/Objects-normal/arm64/CrystalDropCrystalThemeEngine.o",
+    "swift-dependencies" : "/Users/alex/Downloads/Cluck Farm Emberloom/build/Build/Intermediates.noindex/CrystalDrop-Game.build/Debug-iphonesimulator/CrystalDrop Game.build/Objects-normal/arm64/CrystalDropCrystalThemeEngine.swiftdeps"
+  },
+  "/Users/alex/Downloads/Cluck Farm Emberloom/CrystalDrop Game/CrystalDropCrystalUtilityExtensions.swift" : {
+    "const-values" : "/Users/alex/Downloads/Cluck Farm Emberloom/build/Build/Intermediates.noindex/CrystalDrop-Game.build/Debug-iphonesimulator/CrystalDrop Game.build/Objects-normal/arm64/CrystalDropCrystalUtilityExtensions.swiftconstvalues",
+    "dependencies" : "/Users/alex/Downloads/Cluck Farm Emberloom/build/Build/Intermediates.noindex/CrystalDrop-Game.build/Debug-iphonesimulator/CrystalDrop Game.build/Objects-normal/arm64/CrystalDropCrystalUtilityExtensions.d",
+    "diagnostics" : "/Users/alex/Downloads/Cluck Farm Emberloom/build/Build/Intermediates.noindex/CrystalDrop-Game.build/Debug-iphonesimulator/CrystalDrop Game.build/Objects-normal/arm64/CrystalDropCrystalUtilityExtensions.dia",
+    "object" : "/Users/alex/Downloads/Cluck Farm Emberloom/build/Build/Intermediates.noindex/CrystalDrop-Game.build/Debug-iphonesimulator/CrystalDrop Game.build/Objects-normal/arm64/CrystalDropCrystalUtilityExtensions.o",
+    "swift-dependencies" : "/Users/alex/Downloads/Cluck Farm Emberloom/build/Build/Intermediates.noindex/CrystalDrop-Game.build/Debug-iphonesimulator/CrystalDrop Game.build/Objects-normal/arm64/CrystalDropCrystalUtilityExtensions.swiftdeps"
+  }
+}

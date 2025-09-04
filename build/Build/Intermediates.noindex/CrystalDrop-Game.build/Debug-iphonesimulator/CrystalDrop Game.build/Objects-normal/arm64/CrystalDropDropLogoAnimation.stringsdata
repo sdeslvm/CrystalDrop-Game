@@ -1,0 +1,24 @@
+{
+  "source": "/Users/alex/Downloads/Cluck Farm Emberloom/CrystalDrop Game/CrystalDropDropLogoAnimation.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "CrystalDrop",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 104
+        }
+      },
+      {
+        "comment": "",
+        "key": "Dropfall",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 109
+        }
+      }
+    ]
+  },
+  "version": 1
+}

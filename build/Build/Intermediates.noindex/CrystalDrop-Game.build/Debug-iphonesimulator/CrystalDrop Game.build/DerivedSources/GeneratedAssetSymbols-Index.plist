@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colors</key>
+	<array/>
+	<key>images</key>
+	<array>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/alex/Downloads/Cluck Farm Emberloom/CrystalDrop Game/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameCrystalDropLogo</string>
+			<key>relativePath</key>
+			<string>./CrystalDropLogo.imageset</string>
+			<key>swiftSymbol</key>
+			<string>crystalDropLogo</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/alex/Downloads/Cluck Farm Emberloom/CrystalDrop Game/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameAsset1</string>
+			<key>relativePath</key>
+			<string>./asset1.imageset</string>
+			<key>swiftSymbol</key>
+			<string>asset1</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/alex/Downloads/Cluck Farm Emberloom/CrystalDrop Game/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameAsset2</string>
+			<key>relativePath</key>
+			<string>./asset2.imageset</string>
+			<key>swiftSymbol</key>
+			<string>asset2</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/alex/Downloads/Cluck Farm Emberloom/CrystalDrop Game/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameAsset3</string>
+			<key>relativePath</key>
+			<string>./asset3.imageset</string>
+			<key>swiftSymbol</key>
+			<string>asset3</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/alex/Downloads/Cluck Farm Emberloom/CrystalDrop Game/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameAsset4</string>
+			<key>relativePath</key>
+			<string>./asset4.imageset</string>
+			<key>swiftSymbol</key>
+			<string>asset4</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/alex/Downloads/Cluck Farm Emberloom/CrystalDrop Game/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameAsset5</string>
+			<key>relativePath</key>
+			<string>./asset5.imageset</string>
+			<key>swiftSymbol</key>
+			<string>asset5</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/alex/Downloads/Cluck Farm Emberloom/CrystalDrop Game/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameAsset6</string>
+			<key>relativePath</key>
+			<string>./asset6.imageset</string>
+			<key>swiftSymbol</key>
+			<string>asset6</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/alex/Downloads/Cluck Farm Emberloom/CrystalDrop Game/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameAsset7</string>
+			<key>relativePath</key>
+			<string>./asset7.imageset</string>
+			<key>swiftSymbol</key>
+			<string>asset7</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/alex/Downloads/Cluck Farm Emberloom/CrystalDrop Game/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameAsset8</string>
+			<key>relativePath</key>
+			<string>./asset8.imageset</string>
+			<key>swiftSymbol</key>
+			<string>asset8</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/alex/Downloads/Cluck Farm Emberloom/CrystalDrop Game/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameBall</string>
+			<key>relativePath</key>
+			<string>./ball.imageset</string>
+			<key>swiftSymbol</key>
+			<string>ball</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/alex/Downloads/Cluck Farm Emberloom/CrystalDrop Game/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameLogo</string>
+			<key>relativePath</key>
+			<string>./logo.imageset</string>
+			<key>swiftSymbol</key>
+			<string>logo</string>
+		</dict>
+	</array>
+	<key>symbols</key>
+	<array/>
+</dict>
+</plist>
